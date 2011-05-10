@@ -1,2 +1,4 @@
 this is a test.
 Some lame ass change.
+
+Fixed Bug.
